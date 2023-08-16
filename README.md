@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikudev69&label=Profile%20views&color=0e75b6&style=flat" alt="vikudev69" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/vikasbharti69" target="blank"> <img src="https://img.shields.io/twitter/follow/vikasbharti69?logo=twitter&style=for-the-badge" alt="vikasbharti69" /></a> <img width="40" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="vikasbharti69" /> </p>
+<p align="left"> <a href="https://twitter.com/vikasbharti69" target="blank"> <img src="https://img.shields.io/twitter/follow/vikasbharti69?logo=twitter&style=for-the-badge" alt="vikasbharti69" /></a> <img width="40" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" /> </p>
 
 - 🔭 I’m currently working on [My Nike App](https://github.com/VikuDev69/Nike)
 
