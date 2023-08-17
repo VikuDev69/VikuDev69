@@ -34,7 +34,7 @@
 <a href="https://codepen.io/vikudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vikudev" height="30" width="40" /></a>
 <a href="https://dev.to/vikudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vikudev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22395754/vikudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vikudev" height="30" width="40" /></a>
-<a href="https://codesandbox.com/vikudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vikudev" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/vikudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vikudev" height="30" width="40" /></a>
 </p>
 
 <br/>
