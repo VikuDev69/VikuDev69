@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VikuDev69](https://github.com/VikuDev69)
 
-- 💬 Ask me about **Flutter, React-Native , Javascript , HTML and CSS**
+- 💬 Ask me about **Flutter, React-Native , React , Javascript , HTML and CSS**
 
 - 📫 How to reach me **vikkubharti69@gmail.com**
 
