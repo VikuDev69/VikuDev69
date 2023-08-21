@@ -23,6 +23,7 @@
 - 💬 Ask me about **Flutter, React-Native , React , Javascript , HTML and CSS**
 
 - 📫 How to reach me **vikkubharti69@gmail.com**
+- 📫 Also on Yahoo **vikudev@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
